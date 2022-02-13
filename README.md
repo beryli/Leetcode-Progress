@@ -4,9 +4,9 @@
 
 ## Binary Search
 
-- If the midpoint is included for both ends, that is `start = mid` and `end = mid`, end - start will be **1 or 0** in the end.
+<!-- - If the midpoint is included for both ends, that is `start = mid` and `end = mid`, end - start will be **1 or 0** in the end.
 - If the midpoint is included for one end, e.g. `start = mid`,or `end = mid`, end - start will be **0** in the end.
-- If the midpoint is excluded for both ends, that is `start = mid + 1` and `end = mid - 1`, end - start will be **-1** in the end.
+- If the midpoint is excluded for both ends, that is `start = mid + 1` and `end = mid - 1`, end - start will be **-1** in the end. -->
 
 | Number | Title                                                   | Init Date | Special Notes |
 |--------|---------------------------------------------------------|-----------|---------------|
