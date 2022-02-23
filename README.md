@@ -1,20 +1,39 @@
-<!-- - [Binary Search](#binary-search) -->
-
+- [Binary Search](#binary-search)
+- [Two Pointers](#two-pointers)
+- [BFS/DFS](#bfsdfs)
 
 
 ## Binary Search
-
 <!-- - If the midpoint is included for both ends, that is `start = mid` and `end = mid`, end - start will be **1 or 0** in the end.
 - If the midpoint is included for one end, e.g. `start = mid`,or `end = mid`, end - start will be **0** in the end.
 - If the midpoint is excluded for both ends, that is `start = mid + 1` and `end = mid - 1`, end - start will be **-1** in the end. -->
-
 | Number | Title                                                   | Init Date | Special Notes |
 |--------|---------------------------------------------------------|-----------|---------------|
 | 33     | Search in Rotated Sorted Array                          | 2022/02/12|               |
 | 34     | Find First and Last Position of Element in Sorted Array | 2022/02/12|               |
 | 74     | Search a 2D Matrix                                      | 2022/02/13|               |
 | 153    | Find Minimum in Rotated Sorted Array                    | 2022/02/13|               |
-| 162    | Find Peak Element                                       | 2022/02/13| Slope         |
+| 162    | Find Peak Element                                       | 2022/02/13| slope         |
+
+
+## Two Pointers
+| Number | Title                                                   | Init Date | Special Notes |
+|--------|---------------------------------------------------------|-----------|---------------|
+| 82     | Remove Duplicates from Sorted List II                   | 2022/02/21| pointer       |
+| 15     | 3Sum                                                    | 2022/02/21| pivot/2 ptr   |
+| 844    | Backspace String Compare                                | 2022/02/23| in reverse    |
+| 986    | Interval List Intersections                             | 2022/02/23|               |
+| 11     | Container With Most Water                               | 2022/02/23|               |
+
+
+## BFS/DFS
+<!-- - BFS: visited/isconnected/queue
+- DFS: visited/isConnected/recursive -->
+| Number | Title                                                   | Init Date | Special Notes |
+|--------|---------------------------------------------------------|-----------|---------------|
+| 200    | Number of Islands                                       | 2022/02/23|               |
+| 547    | Number of Provinces                                     | 2022/02/23|               |
+
 
 <!-- Array 1044
 String 509
